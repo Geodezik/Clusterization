@@ -1,2 +1,2 @@
 # Clusterization
-Clusterization first view
+Some thoughts on this wonderful data-analysis tool
